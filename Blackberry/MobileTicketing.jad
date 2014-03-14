@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.1.0
+MIDlet-Jar-Size: 252372
+RIM-COD-URL-2: MobileTicketing-2.cod
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: MobileTicketing.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_locationapi,net_rim_os,net_rim_bbapi_browser
+RIM-COD-SHA1-2: 75 a9 1c e6 4a 18 ae d8 a4 8e ba b2 50 b4 55 62 6d d1 61 a0
+RIM-COD-URL-1: MobileTicketing-1.cod
+RIM-COD-SHA1-1: 13 7e 27 7b 04 d0 67 23 c2 ff 81 58 13 34 f0 e6 b6 50 1f 57
+RIM-COD-Size-2: 48784
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 46612
+RIM-COD-Module-Name: MobileTicketing
+MIDlet-Name: MobileTicketing
+RIM-COD-Size: 58924
+RIM-COD-Creation-Time: 1385024466
+MIDlet-1: MobileTicketing,../res/icon.png,
+RIM-COD-URL: MobileTicketing.cod
+MIDlet-Description: Mobile Ticketing Demo Application
+RIM-COD-SHA1: 1f f1 d5 0b c5 e5 f1 76 79 82 d4 c3 04 e6 81 34 16 29 a5 69
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Any Developer (Pty) LTD
